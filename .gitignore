@@ -12,3 +12,6 @@ compiled
 docs
 preview-build
 .eslintcache
+desktop.ini
+*storybook.log
+.env
